@@ -12,6 +12,7 @@ The Folder named Notebooks has some examples of this implementation.
 Resources: 
 
 Dataset : http://bnci-horizon-2020.eu/database/data-sets (the one by David Steryl) 
+
 Description: https://lampx.tugraz.at/~bci/database/002-2014/description.pdf
 
 CSP:https://ieeexplore.ieee.org/document/5662067 
