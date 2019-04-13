@@ -22,7 +22,6 @@ import matplotlib.pyplot as plt
 #from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 
 
-import pywt
 #from sklearn.cross_validation import train_test_split
 #from keras.models import Sequential
 #from keras import regularizers
