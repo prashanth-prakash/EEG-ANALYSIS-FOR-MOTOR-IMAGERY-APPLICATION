@@ -1,5 +1,5 @@
 # EEG-ANALYSIS-FOR-MOTOR-IMAGERY-APPLICATION
-In this project I have implemented two different feature extraction techniques for EEG classificatio- Common Spatial Pattern(CSP) and Discrete Wavelet Transforms.
+In this project I have implemented two different feature extraction techniques for EEG classification- Common Spatial Pattern(CSP) and Discrete Wavelet Transforms.
 The success of machine learning algorithms is considerably dependent on the features provided to them. I have implemented these techniques to observe the differences in classification accuracy as one changes the features.
 I have also implemented an additional feature extraction technique which is a modification of CSP called Filter-Band CSP (FB-CSP). FBCSP uses a combination of spatial patterns from multiple frequency bands. This combination is formed using the mutual information of the features from multiple bands and their respective labels. For more information please follow the resources below. The objective of is to identify right hand motion vs right leg motion.
 
